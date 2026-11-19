@@ -1,0 +1,14 @@
+{
+  "enabledPlugins": {
+    "gtavi-claudecode@gtavi-claudecode": true,
+    "ponytail@ponytail": true
+  },
+  "extraKnownMarketplaces": {
+    "gtavi-claudecode": {
+      "source": {
+        "source": "github",
+        "repo": "Bodila51/gtavi-claudecode"
+      }
+    }
+  }
+}

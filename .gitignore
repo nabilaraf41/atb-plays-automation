@@ -1,0 +1,8 @@
+.env
+secrets/
+*.token
+__pycache__/
+.venv*/
+out/
+out/_*
+trends.md
