@@ -9,6 +9,8 @@ Accounts:
 - IG @atb.plays (linked to the Page)
 - TikTok skipped.
 
+**Ponytail at ULTRA level in every chat** (owner 26 Nov): smallest complete change, push back on anything the need does not justify.
+
 Plan: PLAN.md. Clip permissions: CREATORS.md.
 
 ## gtavi-claudecode plugin (installed 19 Nov, project scope)
